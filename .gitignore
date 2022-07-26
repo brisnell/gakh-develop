@@ -1,0 +1,7 @@
+build
+tmp
+garfo-updates
+*.tgz
+.DS_Store
+build
+*.tgz

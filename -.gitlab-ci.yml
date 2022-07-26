@@ -1,0 +1,5 @@
+variables:
+  GIT_ORIGIN_URL: "git@gitlab.rtd.systems:dh3/wf/gakh.git"
+
+include:
+  - remote: "https://s3-ap-southeast-2.amazonaws.com/config.rtd.systems/shared-ci-files/workflows-remote-gitlab-ci-csdp-v2.yml"
